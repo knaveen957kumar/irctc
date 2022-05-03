@@ -1,0 +1,10 @@
+<html>
+<title>HTML</title>
+<body>
+<center><h1>LISTS</H1></center>
+<hr><hr>
+<li>MS.WORD</li>
+<li>MS.EXCEL</li>
+<hr><hr>
+</body>
+</html>
